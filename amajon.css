@@ -1,0 +1,55 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0%;
+  margin: 0%;
+}
+
+.header {
+    height: 60px;
+    background-color: #0f1111;
+}
+a {
+    color: #ffffff;
+    margin-right: 230px;
+    text-decoration: none;
+}
+
+button {
+    background: #f08804;
+}
+.Amajon {
+    color: #f08804;
+    font-size: 25px;
+}
+
+
+section{
+    height: 1000px;
+}
+.main{
+    height: 120px;
+    width: 120px;
+    border: 2px solid black;
+    color: #0f1111;
+    display: inline-block;
+}
+
+
+footer{
+    height: 1.9rem;
+    text-align: center;
+    background-color: #0f1111;
+    color: #ffffff;
+    padding: 20px 20px
+}
+
+.red{
+    background-color: rgba(255, 0, 0, 0.5);
+    
+}
+.yellow{
+    background-color: rgba(255, 255, 0, 0.5);
+}
+.orange{
+    background-color: rgba(255, 123, 0, 0.5);
+}
